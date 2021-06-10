@@ -1,4 +1,4 @@
-xercise 1.4
+Exercise 1.4
 
 The following exercise is intended to encourage you to think of testing in a more rigorous way than you may be used to. The exercisealso hints at the strong relationship between specification clarity, faults, and test cases
 
@@ -9,6 +9,7 @@ The following exercise is intended to encourage you to think of testing in a mor
 (c) Create a set of test cases that you think would have a reasonable chance of revealing the faults you identified above. Document a rationale for each test in your test set. If possible, characterize all of your rationales in some concise summary. Run your tests against your implementation.
 
 (d) Rewrite the method signature to be precise enough to clarify the defects and ambiguities identified earlier. You might wish to illustrate your specification with examples drawn from your test cases.
+
 a,
 
 import java.util.Vector;
